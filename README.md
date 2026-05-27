@@ -14,7 +14,8 @@ Simulate a real-world 3-way T-shaped intersection with:
 - Debugged typo errors (degitalWrite) and learned to read 
   compiler error messages
 - Confirmed all LEDs light up sequentially
-![Week 1 Circuit](Week 1 circuit photo.jpg)
+
+![Week 1 Circuit](week1_circuit.jpg)
 
 ## What I Learned So Far
 - How breadboards work (horizontal row connections)
